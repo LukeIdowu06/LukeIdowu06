@@ -70,7 +70,7 @@ A 2D top-down shooter wave defense game created using **GameMaker Language (GML)
 
 ---
 
-📖 Guide on How to Run the Game:
+📖 **Guide on How to Run the Game**:
 1️⃣ Unborn Game
 🖱️ Download the EXE file from the link above.
 📂 Extract the file (if necessary).
@@ -86,7 +86,6 @@ A 2D top-down shooter wave defense game created using **GameMaker Language (GML)
 
 
 ---
-Here's an enhanced version of your "Hobbies and Interests" section with a bit more flair and personality:
 
 ---
 
