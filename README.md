@@ -93,13 +93,6 @@ A 2D top-down shooter wave defense game created using **GameMaker Language (GML)
 📑 Access documentation by opening the Documentation folder within the Unit5 Alpha Auto 1 folder.
 
 ---
-Certainly! Here's the updated version with **C++ Programs** bolded and made larger, along with the programs themselves remaining bold:
-
----
-
-Certainly! Here's your updated list with a placeholder for you to add links next to each program:
-
----
 
 # **💻 C++ Programs**
 
