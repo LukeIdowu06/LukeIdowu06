@@ -1,7 +1,3 @@
-
-
----
-
 ### 👋 **Hi there! I'm LukeIdowu**
 
 ---
@@ -33,7 +29,7 @@ I'm currently pursuing a degree in **Computer Science** at **University Of South
 
 ### 📝 **My Projects**  
 
----
+
 
 #### 1. **Unborn**: [Download EXE](https://drive.google.com/file/d/1RVn8QqmWaCNtGguKVcjXpeCdPgK92CI4/view?usp=sharing)  
 **Description**:  
