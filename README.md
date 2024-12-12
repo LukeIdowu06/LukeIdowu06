@@ -125,10 +125,8 @@ In my free time, you'll find me enjoying one or more of these activities:
 🖥️ **I build my own PC and optimised it for both gaming and work**  
 
 ---
-
----
-📬 Contact Information
-📧 Email: luke.idowu6@gmail.com 
+📬 **Contact Information**
+📧 Email: luke.idowu6@gmail.com
 🌐 GitHub: github.com/LukeIdowu06
 
 
