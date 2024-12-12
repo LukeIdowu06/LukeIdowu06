@@ -71,27 +71,19 @@ A 2D top-down shooter wave defense game created using **GameMaker Language (GML)
 ---
 
 📖 Guide on How to Run the Game:
-1. Unborn Game
-1️⃣ Download the EXE file from the link above.
-2️⃣ Extract the file (if necessary).
-3️⃣ Run the EXE file to start playing the game.
-2. Alpha Auto
-1️⃣ Download the file from the link above.
-2️⃣ Extract the file.
-3️⃣ Open the "READ ME FOR CODES" text document for admin controls.
-4️⃣ Run the Project1 Visual Basic Project.
-5️⃣ Documentation can be accessed by opening the Documentation folder within the Unit5 Alpha Auto 1 folder.
+1️⃣ Unborn Game
+🖱️ Download the EXE file from the link above.
+📂 Extract the file (if necessary).
+▶️ Run the EXE file to start playing the game.
+📖 Guide on How to Run the Database:
 
 
-
-
-
-
-
-
-
-
-
+2️⃣ Alpha Auto
+🖱️ Download the file from the link above.
+📂 Extract the file.
+📄 Open the "READ ME FOR CODES" text document for admin controls.
+▶️ Run the Project1 Visual Basic Project.
+📑 Access documentation by opening the Documentation folder within the Unit5 Alpha Auto 1 folder.
 
 
 
