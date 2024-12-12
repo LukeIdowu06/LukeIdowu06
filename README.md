@@ -130,18 +130,6 @@ A 2D top-down shooter wave defense game created using **GameMaker Language (GML)
 
 ---
 
-You can now insert the appropriate links next to each program by replacing the "Insert Link Here" placeholder. Let me know if you need any further modifications!
----
-
----
-
-Let me know if you'd like further changes! 
-
-
-
-
----
-
 
 ### 🎮 **Hobbies and Interests**
 
