@@ -89,24 +89,44 @@ A 2D top-down shooter wave defense game created using **GameMaker Language (GML)
 
 ---
 
+Here's the improved layout with a cleaner and more visually appealing format while keeping your original text intact:
+
+---
+
 ### 🎮 **Hobbies and Interests**
 
-In my free time you'll find me enjoying one or more of these activities:
+In my free time, you'll find me enjoying one or more of these activities:
 
-- 🏀 **Playing Basketball**:I enjoy playing Basketball, whether it's a competitive game or just shooting around with friends. It's a great way to stay active and have fun.
-- 👨‍👩‍👧‍👦 **Spending Time with Family**: Quality time with loved ones is always a priority — from casual hangouts to family gatherings.
-- ♟️ **Playing Chess**: I love the strategic challenge of chess — it's not just a game, it's a way to keep my mind sharp.
-- ✈️ **Traveling**: Exploring new places, experiencing different cultures, and creating lasting memories is something I’m passionate about.
-- 🎧 **Listening to Music**: Music helps me relax, whether it’s for relaxation or setting the mood to be creative and focused.
+1. 🏀 **Playing Basketball**  
+   I enjoy playing basketball, whether it's a competitive game or just shooting around with friends. It's a great way to stay active and have fun.  
 
-Fun Facts About Me
-🌍 I can name almost every country in the world
+2. 👨‍👩‍👧‍👦 **Spending Time with Family**  
+   Quality time with loved ones is always a priority — from casual hangouts to family gatherings.  
 
-⌨️ I can type over 100 Words Per Minute
+3. ♟️ **Playing Chess**  
+   I love the strategic challenge of chess — it's not just a game, it's a way to keep my mind sharp.  
 
-🎲 I can solve a Rubik's cube in under 2 minutes
+4. ✈️ **Traveling**  
+   Exploring new places, experiencing different cultures, and creating lasting memories is something I’m passionate about.  
 
-🖥️ I build my own PC and optimised it for both gaming and work
+5. 🎧 **Listening to Music**  
+   Music helps me relax, whether it’s for relaxation or setting the mood to be creative and focused.  
+
+---
+
+### **Fun Facts About Me**  
+
+🌍 **I can name almost every country in the world**  
+
+⌨️ **I can type over 100 Words Per Minute**  
+
+🎲 **I can solve a Rubik's cube in under 2 minutes**  
+
+🖥️ **I build my own PC and optimised it for both gaming and work**  
+
+---
+
+This format organizes the text into clear sections with numbered bullet points for hobbies and a simple list for fun facts, making it easy to read and visually appealing.
 
 
 
