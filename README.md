@@ -109,7 +109,7 @@ Certainly! Here's your updated list with a placeholder for you to add links next
 
 ### 2. **🌡️ Annual High Temperatures**  
 - **Description**: A program that calculates and reports the new average high temperature for each city if the temperatures rise by 15%.  
-- **Link**: [Insert Link Here]  
+- **Link**:  https://drive.google.com/file/d/1lIMXkaiPRlgV9EuFOSJGJBlCRmBaOVyN/view?usp=sharing 
 
 ### 3. **🌍 World Population**  
 - **Description**: A program to display the world population and predict how it will increase by 10%, 15%, and 20%.  
@@ -117,7 +117,7 @@ Certainly! Here's your updated list with a placeholder for you to add links next
 
 ### 4. **🍔 Burger Stall**  
 - **Description**: A program that calculates the total sales for the day by asking the user how many of each burger was sold.  
-- **Link**: [Insert Link Here]  
+- **Link**: https://drive.google.com/file/d/1TSSHFt7pOnlVRyRoDgvtOE1YsFQ5SWU4/view?usp=sharing  
 
 ### 5. **📈 Average Percentage of Marks**  
 - **Description**: A program that calculates the average percentage of marks obtained in each exam and displays it with two decimal places.  
