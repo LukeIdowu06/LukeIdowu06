@@ -22,7 +22,7 @@ I'm currently pursuing a degree in **Computer Science** at **University Of South
 #### **Frameworks and Libraries**  
 - 💡 **Bootstrap**: Intermediate - Familiar in using Bootstrap to design responsive and visually appealing web pages.  
 - 🗄️ **MySQL**: Basic - Comfortable with basic database management tasks, including creating tables, writing queries, and handling data storage for projects.  
-- 🎮 **GameMaker Studio**: Hands-on experience with creating simple 2D games. Learned the fundamentals of game development, including sprite management, basic game logic, and level design.
+- 🎮 **GameMaker Studio**: Intermediate - Hands-on experience with creating simple 2D games. Learned the fundamentals of game development, including sprite management, basic game logic, and level design.
 
 #### **Core Strengths**  
 - 🧠 **Problem-solving**: Adept at debugging and optimizing code.  
