@@ -75,14 +75,14 @@ A 2D top-down shooter wave defense game created using **GameMaker Language (GML)
 🖱️ Download the EXE file from the link above.
 📂 Extract the file (if necessary).
 ▶️ Run the EXE file to start playing the game.
-📖 Guide on How to Run the Database
-
+📖 Guide on How to Run the Database:
 2️⃣ Alpha Auto
 🖱️ Download the file from the link above.
 📂 Extract the file.
 📄 Open the "READ ME FOR CODES" text document for admin controls.
 ▶️ Run the Project1 Visual Basic Project.
 📑 Access documentation by opening the Documentation folder within the Unit5 Alpha Auto 1 folder.
+
 
 
 ---
