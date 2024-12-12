@@ -105,7 +105,7 @@ Certainly! Here's your updated list with a placeholder for you to add links next
 
 ### 1. **📊 Monthly Income**  
 - **Description**: A program to calculate the monthly income of an employee, factoring in basic pay, bonus amount, medical allowance, and overall total income.  
-- **Link**: https://drive.google.com/file/d/1h0DEFY-fceJczSbIvI0YeQND1tW04b9e/view?usp=sharing
+- **Link**: https://drive.google.com/file/d/1EZRo2aRs1gX6zPzvSuvjUq1ote_EKlon/view?usp=sharing
 
 ### 2. **🌡️ Annual High Temperatures**  
 - **Description**: A program that calculates and reports the new average high temperature for each city if the temperatures rise by 15%.  
@@ -113,7 +113,7 @@ Certainly! Here's your updated list with a placeholder for you to add links next
 
 ### 3. **🌍 World Population**  
 - **Description**: A program to display the world population and predict how it will increase by 10%, 15%, and 20%.  
-- **Link**: [Insert Link Here]  
+- **Link**: https://drive.google.com/file/d/1h0DEFY-fceJczSbIvI0YeQND1tW04b9e/view?usp=sharing 
 
 ### 4. **🍔 Burger Stall**  
 - **Description**: A program that calculates the total sales for the day by asking the user how many of each burger was sold.  
@@ -121,19 +121,19 @@ Certainly! Here's your updated list with a placeholder for you to add links next
 
 ### 5. **📈 Average Percentage of Marks**  
 - **Description**: A program that calculates the average percentage of marks obtained in each exam and displays it with two decimal places.  
-- **Link**: [Insert Link Here]  
+- **Link**: https://drive.google.com/file/d/1zZeFQUFj2pXM6jVxjT1HTmsYGL13lkhg/view?usp=sharing 
 
 ### 6. **🏡 House Budget**  
 - **Description**: A program that helps a user calculate their monthly expenses on rent, utilities, gas, and other costs.  
-- **Link**: [Insert Link Here]  
+- **Link**: https://drive.google.com/file/d/1sq8cX_jxrxy3Nkg9467ZMOXVem98Wvs-/view?usp=sharing 
 
 ### 7. **🪙 Coin Toss**  
 - **Description**: A program that simulates a coin toss. It randomly selects "Heads" or "Tails" and displays the result.  
-- **Link**: [Insert Link Here]  
+- **Link**: https://drive.google.com/file/d/1I9637fX-NtcSqIlDBdi3foq6-0rzuoTB/view?usp=sharing
 
 ### 8. **🚗 Distance Traveled**  
 - **Description**: A program to calculate the total distance traveled by a vehicle given the speed (in miles per hour) and travel time.  
-- **Link**: [Insert Link Here]  
+- **Link**: https://drive.google.com/file/d/18rS_7bh31zLNOy7xSTA0VVdVqIqBBdOx/view?usp=sharing
 
 ---
 
