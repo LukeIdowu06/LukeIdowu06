@@ -1,5 +1,6 @@
 
-![game gif](https://github.com/user-attachments/assets/6fe84f8e-e535-401b-8436-9ccb83091f32)
+![spaceship gif](https://github.com/user-attachments/assets/bbdeaa4c-a233-4fd3-80e8-42b06ac53782)
+
 
 
 
