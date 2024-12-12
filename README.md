@@ -97,32 +97,47 @@ Certainly! Here's the updated version with **C++ Programs** bolded and made larg
 
 ---
 
+Certainly! Here's your updated list with a placeholder for you to add links next to each program:
+
+---
+
 # **💻 C++ Programs**
 
-### 1. **📊 Monthly Income** https://app.codegra.de/courses/9647/assignments/121500/submissions/9481830/files/118235255?revision=student
-- **Description**: A program to calculate the monthly income of an employee, factoring in basic pay, bonus amount, medical allowance, and overall total income.
+### 1. **📊 Monthly Income**  
+- **Description**: A program to calculate the monthly income of an employee, factoring in basic pay, bonus amount, medical allowance, and overall total income.  
+- **Link**: https://drive.google.com/file/d/1h0DEFY-fceJczSbIvI0YeQND1tW04b9e/view?usp=sharing 
 
-### 2. **🌡️ Annual High Temperatures**
-- **Description**: A program that calculates and reports the new average high temperature for each city if the temperatures rise by 15%.
+### 2. **🌡️ Annual High Temperatures**  
+- **Description**: A program that calculates and reports the new average high temperature for each city if the temperatures rise by 15%.  
+- **Link**: [Insert Link Here]  
 
-### 3. **🌍 World Population**
-- **Description**: A program to display the world population and predict how it will increase by 10%, 15%, and 20%.
+### 3. **🌍 World Population**  
+- **Description**: A program to display the world population and predict how it will increase by 10%, 15%, and 20%.  
+- **Link**: [Insert Link Here]  
 
-### 4. **🍔 Burger Stall**
-- **Description**: A program that calculates the total sales for the day by asking the user how many of each burger was sold.
+### 4. **🍔 Burger Stall**  
+- **Description**: A program that calculates the total sales for the day by asking the user how many of each burger was sold.  
+- **Link**: [Insert Link Here]  
 
-### 5. **📈 Average Percentage of Marks**
-- **Description**: A program that calculates the average percentage of marks obtained in each exam and displays it with two decimal places.
+### 5. **📈 Average Percentage of Marks**  
+- **Description**: A program that calculates the average percentage of marks obtained in each exam and displays it with two decimal places.  
+- **Link**: [Insert Link Here]  
 
-### 6. **🏡 House Budget**
-- **Description**: A program that helps a user calculate their monthly expenses on rent, utilities, gas, and other costs.
+### 6. **🏡 House Budget**  
+- **Description**: A program that helps a user calculate their monthly expenses on rent, utilities, gas, and other costs.  
+- **Link**: [Insert Link Here]  
 
-### 7. **🪙 Coin Toss**
-- **Description**: A program that simulates a coin toss. It randomly selects "Heads" or "Tails" and displays the result.
+### 7. **🪙 Coin Toss**  
+- **Description**: A program that simulates a coin toss. It randomly selects "Heads" or "Tails" and displays the result.  
+- **Link**: [Insert Link Here]  
 
-### 8. **🚗 Distance Traveled**
-- **Description**: A program to calculate the total distance traveled by a vehicle given the speed (in miles per hour) and travel time.
+### 8. **🚗 Distance Traveled**  
+- **Description**: A program to calculate the total distance traveled by a vehicle given the speed (in miles per hour) and travel time.  
+- **Link**: [Insert Link Here]  
 
+---
+
+You can now insert the appropriate links next to each program by replacing the "Insert Link Here" placeholder. Let me know if you need any further modifications!
 ---
 
 ---
