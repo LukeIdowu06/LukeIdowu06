@@ -105,7 +105,7 @@ Certainly! Here's your updated list with a placeholder for you to add links next
 
 ### 1. **📊 Monthly Income**  
 - **Description**: A program to calculate the monthly income of an employee, factoring in basic pay, bonus amount, medical allowance, and overall total income.  
-- **Link**: https://drive.google.com/file/d/1h0DEFY-fceJczSbIvI0YeQND1tW04b9e/view?usp=sharing 
+- **Link**: https://drive.google.com/file/d/1h0DEFY-fceJczSbIvI0YeQND1tW04b9e/view?usp=sharing
 
 ### 2. **🌡️ Annual High Temperatures**  
 - **Description**: A program that calculates and reports the new average high temperature for each city if the temperatures rise by 15%.  
