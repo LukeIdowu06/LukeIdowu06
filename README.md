@@ -1,6 +1,7 @@
 
+![game gif](https://github.com/user-attachments/assets/6fe84f8e-e535-401b-8436-9ccb83091f32)
 
-![fire gif](https://github.com/user-attachments/assets/6f63863c-5774-4ab6-9cda-2717813f5896)
+
 
 
 
