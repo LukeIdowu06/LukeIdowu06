@@ -94,26 +94,37 @@ A 2D top-down shooter wave defense game created using **GameMaker Language (GML)
 
 
 ** C++ Programs **
-1. 📊 Monthly Income
-Description: A program to calculate the monthly income of an employee, factoring in basic pay, bonus amount, medical allowance, and overall total income.
-2. 📏 Height in Meters
-Description: A program to take the height in feet and inches, then convert it to meters.
-3. 🌡️ Annual High Temperatures
-Description: A program that calculates and reports the new average high temperature for each city if the temperatures rise by 15%.
-4. 🌍 World Population
-Description: A program to display the world population and predict how it will increase by 10%, 15%, and 20%.
-5. 🍔 Burger Stall
-Description: A program that calculates the total sales for the day by asking the user how many of each burger was sold.
-6. 📈 Average Percentage of Marks
-Description: A program that calculates the average percentage of marks obtained in each exam and displays it with two decimal places.
-7. 🏡 House Budget
-Description: A program that helps a user calculate their monthly expenses on rent, utilities, gas, and other costs.
-8. 🪙 Coin Toss
-Description: A program that simulates a coin toss. It randomly selects "Heads" or "Tails" and displays the result.
-9. 📱 Mobile Phone Plans
-Description: A program to calculate the customer's monthly phone bill, including the cost of the selected plan and data usage.
-10. 🚗 Distance Traveled
-Description: A program to calculate the total distance traveled by a vehicle given the speed (in miles per hour) and travel time.
+Sure! Here is the updated list with the **Mobile Phone Plans** program removed, while keeping the rest as is:
+
+---
+
+### 1. **📊 Monthly Income**
+- **Description**: A program to calculate the monthly income of an employee, factoring in basic pay, bonus amount, medical allowance, and overall total income.
+
+### 2. **🌡️ Annual High Temperatures**
+- **Description**: A program that calculates and reports the new average high temperature for each city if the temperatures rise by 15%.
+
+### 3. **🌍 World Population**
+- **Description**: A program to display the world population and predict how it will increase by 10%, 15%, and 20%.
+
+### 4. **🍔 Burger Stall**
+- **Description**: A program that calculates the total sales for the day by asking the user how many of each burger was sold.
+
+### 5. **📈 Average Percentage of Marks**
+- **Description**: A program that calculates the average percentage of marks obtained in each exam and displays it with two decimal places.
+
+### 6. **🏡 House Budget**
+- **Description**: A program that helps a user calculate their monthly expenses on rent, utilities, gas, and other costs.
+
+### 7. **🪙 Coin Toss**
+- **Description**: A program that simulates a coin toss. It randomly selects "Heads" or "Tails" and displays the result.
+
+### 8. **🚗 Distance Traveled**
+- **Description**: A program to calculate the total distance traveled by a vehicle given the speed (in miles per hour) and travel time.
+
+---
+
+Let me know if you'd like further changes! 
 
 
 
