@@ -92,11 +92,8 @@ A 2D top-down shooter wave defense game created using **GameMaker Language (GML)
 ▶️ Run the Project1 Visual Basic Project.
 📑 Access documentation by opening the Documentation folder within the Unit5 Alpha Auto 1 folder.
 
-
-** C++ Programs **
-Sure! Here is the updated list with the **Mobile Phone Plans** program removed, while keeping the rest as is:
-
 ---
+** C++ Programs **
 
 ### 1. **📊 Monthly Income**
 - **Description**: A program to calculate the monthly income of an employee, factoring in basic pay, bonus amount, medical allowance, and overall total income.
