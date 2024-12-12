@@ -77,6 +77,9 @@ A 2D top-down shooter wave defense game created using **GameMaker Language (GML)
 📂 Extract the file (if necessary).
 ▶️ Run the EXE file to start playing the game.
 📖 Guide on How to Run the Database:
+
+
+📖 **Guide on How to Run the database**:
 2️⃣ Alpha Auto
 🖱️ Download the file from the link above.
 📂 Extract the file.
