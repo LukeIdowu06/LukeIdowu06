@@ -126,10 +126,6 @@ In my free time, you'll find me enjoying one or more of these activities:
 
 ---
 
-This format organizes the text into clear sections with numbered bullet points for hobbies and a simple list for fun facts, making it easy to read and visually appealing.
-
-
-
 ---
 📬 Contact Information
 📧 Email: luke.idowu6@gmail.com 
