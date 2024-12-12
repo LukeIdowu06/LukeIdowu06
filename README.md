@@ -89,9 +89,6 @@ A 2D top-down shooter wave defense game created using **GameMaker Language (GML)
 
 ---
 
-Here's the improved layout with a cleaner and more visually appealing format while keeping your original text intact:
-
----
 
 ### 🎮 **Hobbies and Interests**
 
