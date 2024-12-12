@@ -126,13 +126,13 @@ In my free time, you'll find me enjoying one or more of these activities:
 
 🎲 **I can solve a Rubik's cube in under 2 minutes**  
 
-🖥️ **I build my own PC and optimised it for both gaming and work**  
+🖥️ **I built my own PC and optimised it for both gaming and work**  
 
 ---
 📬 **Contact Information**
 📧 Email: luke.idowu6@gmail.com
 🌐 GitHub: github.com/LukeIdowu06
-
+![Fire GIF](https://github.com/user-attachments/assets/6f63863c-5774-4ab6-9cda-2717813f5896) 
 
 
 
