@@ -114,7 +114,7 @@ In my free time, you'll find me enjoying one or more of these activities:
 
 ---
 
-### **Fun Facts About Me**  
+### 🌟 **Fun Facts About Me**  
 
 🌍 **I can name almost every country in the world**  
 
