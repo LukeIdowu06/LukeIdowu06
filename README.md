@@ -93,7 +93,11 @@ A 2D top-down shooter wave defense game created using **GameMaker Language (GML)
 📑 Access documentation by opening the Documentation folder within the Unit5 Alpha Auto 1 folder.
 
 ---
-** C++ Programs **
+Certainly! Here's the updated version with **C++ Programs** bolded and made larger, along with the programs themselves remaining bold:
+
+---
+
+# **💻 C++ Programs**
 
 ### 1. **📊 Monthly Income**
 - **Description**: A program to calculate the monthly income of an employee, factoring in basic pay, bonus amount, medical allowance, and overall total income.
@@ -118,6 +122,8 @@ A 2D top-down shooter wave defense game created using **GameMaker Language (GML)
 
 ### 8. **🚗 Distance Traveled**
 - **Description**: A program to calculate the total distance traveled by a vehicle given the speed (in miles per hour) and travel time.
+
+---
 
 ---
 
